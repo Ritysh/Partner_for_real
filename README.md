@@ -6,7 +6,7 @@ MCAgosta.R contains Marie's separate script, which is dynamically linked to CK_M
 
 Assignment 1
 
-Retrieving Data 
+#Retrieving Data 
 
 Downloaded the UKLungDeaths data from R and looked at it to get a better idea of the data available
 
