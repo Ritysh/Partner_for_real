@@ -8,8 +8,8 @@ Assignment 1
 
 Downloaded the UKLungDeaths data from R and looked at it to  get a better idea of the data available
 
-It is cmprised of three time-series objects: both sexes (ldeaths), males (mdeaths) and females (fdeaths).
-It shows monthly deaths from bronchitis, emphysema and asthma in the UK, 1974–1979
+It is composed of three time-series objects: both sexes (ldeaths), males (mdeaths) and females (fdeaths).
+It shows monthly deaths from bronchitis, emphysema, and asthma in the UK, 1974–1979. 
 
 I then proceeded to perform basic descriptive stats to get a better idea  of the trends of the avilable data, I plotted each time-series and then plotted male and female together to see the correlation. 
 
