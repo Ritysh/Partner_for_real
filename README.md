@@ -12,7 +12,7 @@ Downloaded the UKLungDeaths data from R and looked at it to get a better idea of
 
 It is composed of three time-series objects: both sexes (ldeaths), males (mdeaths) and females (fdeaths). It shows monthly deaths from bronchitis, emphysema, and asthma in the UK, 1974–1979. 
 
-Basic Transformations on the Data 
+#Basic Transformations on the Data 
 
 I then proceeded to perform basic descriptive stats to get a better idea of the trends of the available data, I plotted each time-series and then plotted male and female together to see the correlation. 
 
