@@ -6,6 +6,10 @@
 
 ##################################
 
+# Set working directory 
+# setwd("/Users/Marie/Desktop/R_Course /Partner_for_real")
+
+
 #Looking at data sets on R in order to choose one
 
 data()
